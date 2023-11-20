@@ -137,7 +137,7 @@ themes:
   #     - Conformance testing
   #     - Cyber-physical systems
   #         - Smart cities
-  #     - Cybersecurity
+       - Cybersecurity
   #         - Configuration and vulnerability management
   #         - Cryptography
   #         - Cybersecurity Education and Workforce Development
@@ -162,7 +162,7 @@ themes:
   #         - Next Generation Networks
   #         - Protocol Design and Standardization
   #         - Software-defined and virtual networks
-  #     - Privacy
+       - Privacy
   #     - Software research
   #         - Software assurance
   #         - Software performance
